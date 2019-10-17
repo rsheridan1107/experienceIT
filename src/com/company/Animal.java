@@ -14,6 +14,7 @@ public class Animal {
         this.body = body;
         this.size = size;
         this.weight = weight;
+        System.out.println("TEST");
     }
 
     public void eat() {
